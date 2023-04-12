@@ -27,3 +27,19 @@
     font-size: 25px;
     font-weight: bold;
 }
+
+.button1, .button2{
+     font-family: "Arial", Helvetica Neue, Helvetica, sans-serif;
+    font-size: 28px;
+
+}
+
+.button1{
+    background-color: black;
+    color: white;
+}
+
+.button2{
+    background-color: yellow;
+    color: black;
+}
