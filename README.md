@@ -1,4 +1,3 @@
-# odin-recipes
-making basic recipes, practicing HTML, CLI, Git, vsCode...
-TODO: gitHub SSH
+ odin-recipes
+4-11-23:testing github commands.
 
