@@ -43,3 +43,16 @@
     background-color: yellow;
     color: black;
 }
+
+.avatar.proportioned{
+    width: 300px;
+    height: auto;
+    background-color: red;
+}
+
+.avatar.distorted{
+    width: 200px;
+    height: 400px;
+    background-color: transparent;
+
+}
